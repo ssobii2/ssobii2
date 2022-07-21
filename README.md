@@ -8,7 +8,7 @@ I am a Computer Science student learning to code currently doing BSc Computer Sc
 
 *   🌍  I'm based in Hungary
 *   ✉️  You can contact me at [subhanimran4@gmail.com](mailto:subhanimran4@gmail.com)
-*   🧠  I'm learning Angular<a href="https://www.twitter.com/rssobii2" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Coding<a href="https://www.twitter.com/rssobii2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rssobii2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/ssobii2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ssobii2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
