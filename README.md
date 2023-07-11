@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Subhan
 Student
 -------
 
-I am a Computer Science student learning to code currently doing BSc Computer Science from University of Pecs Hungary on Scholarship.
+I am a Computer Science student learning to code who graduated with doing BSc in Computer Science from the University of Pecs Hungary on a Scholarship.
 
 *   🌍  I'm based in Hungary
 *   ✉️  You can contact me at [subhanimran4@gmail.com](mailto:subhanimran4@gmail.com)
